@@ -25,10 +25,10 @@ MODE NATIVE HANYA  - 1 - 2 - 3 -
 "enable_strap" : true,
 "enable_strap_Splah" : false,
 
-"ads_on_exit_dialog" : false,
+"ads_on_exit_dialog" : true,
 
 "mode_offline_mp3" : false,
-"enable_sticky_notification" : true,
+"enable_sticky_notification" : false,
 
 "startapp" : "YOUR_APP_ID",
 
